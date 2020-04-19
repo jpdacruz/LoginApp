@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "734587688398",
+    "firebase_url": "https://proyectocomidas-e39e7.firebaseio.com",
+    "project_id": "proyectocomidas-e39e7",
+    "storage_bucket": "proyectocomidas-e39e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734587688398:android:0fbd73c38546819686879f",
+        "android_client_info": {
+          "package_name": "com.jpdacruz.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734587688398-i9f0udlvcqrmaurrjflbkc6lhj4qd23l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx0idzhdTscc4ryvBEn5eb77Das1LtQGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734587688398-i9f0udlvcqrmaurrjflbkc6lhj4qd23l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

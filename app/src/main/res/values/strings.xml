@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="sesion_out">Salir de la sesión</string>
+
+    <string name="facebook_application_id">185290885763330</string>
+    <string name="fb_login_protocol_scheme">fb185290885763330</string>
+
+</resources>
